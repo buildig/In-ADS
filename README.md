@@ -1,4 +1,7 @@
-# In-ADS
+# In-ADS docs
+
+* EST: https://github.com/buildig/In-ADS/blob/master/et/
+* ENG: https://github.com/buildig/In-ADS/blob/master/en/
 
 ## Sources
 * http://inaadress.maaamet.ee/inaadress/
